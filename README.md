@@ -1,28 +1,36 @@
-### belmiroha
+###<h1 align="center">belmiroha</h1>
+<p align="center">
+  blockchain developer • base apps • vibecoder
+</p>
 
-**Blockchain Developer • Base Apps • Vibecoder**
+<p align="center">
+  building clean onchain products, private-chain ideas, and fast crypto MVPs
+</p>
 
-Building crypto-native applications with focus on Base ecosystem, private chains, and fast product execution.
+---
 
-## What I do
+### focus
 
-- Build Base apps and onchain user flows
-- Develop smart contracts for scalable systems
-- Design private blockchain infrastructure
-- Create fast MVPs with vibe coding approach
+- base ecosystem
+- smart contracts
+- private / permissioned chains
+- full-stack crypto apps
+- fast product shipping
 
-## Tech focus
+### stack
 
-- Base ecosystem
-- Smart contracts (EVM)
-- Layer 2
-- Private blockchains
+`solidity` `evm` `base` `typescript` `react` `next.js` `node.js`
 
-## Stack
+### now
 
-- Solidity / EVM
-- TypeScript / React / Next.js
-- Node.js
+- base-native app flows
+- onchain product experiments
+- private chain concepts
+- dev tools for faster shipping
+
+### philosophy
+
+> ship fast. keep it clean. make it usable.
 
 ## Philosophy
 
