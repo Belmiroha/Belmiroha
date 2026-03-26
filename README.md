@@ -1,16 +1,29 @@
-## Hi there 👋
+### belmiroha
 
-<!--
-**Belmiroha/Belmiroha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Blockchain Developer • Base Apps • Vibecoder**
 
-Here are some ideas to get you started:
+Building crypto-native applications with focus on Base ecosystem, private chains, and fast product execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Build Base apps and onchain user flows
+- Develop smart contracts for scalable systems
+- Design private blockchain infrastructure
+- Create fast MVPs with vibe coding approach
+
+## Tech focus
+
+- Base ecosystem
+- Smart contracts (EVM)
+- Layer 2
+- Private blockchains
+
+## Stack
+
+- Solidity / EVM
+- TypeScript / React / Next.js
+- Node.js
+
+## Philosophy
+
+Build fast. Keep it clean. Make it usable.
